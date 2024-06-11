@@ -1,5 +1,5 @@
-# ORONER-ontology
-This repository contains the file produced to create the ORONER (Ontology for Representing inter-Organizational NEtworks Resilience) ontology.
+# Ontology Name
+This repository contains the file produced to create the ontology.
 
 Authors :
 - Mohamed Ayoub Laouni (1,2) orcidID{0009-0007-4603-0060}
